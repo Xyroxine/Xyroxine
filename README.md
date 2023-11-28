@@ -12,6 +12,6 @@ Here are some of the projects I've worked on:
 - **Project 1**: A brief description of what the project does and what technologies you used.
 - **Project 2**: A brief description of what the project does and what technologies you used.
 ## 📫 Get in Touch
-- Twitter: @yourhandle
-- LinkedIn: Your Name
-- Email: your.email@example.com
+- Twitter: @Xyroxine
+- LinkedIn: Xyroxine
+- Email: Xyroxine69@outlook.com
